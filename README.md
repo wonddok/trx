@@ -12,7 +12,7 @@
 * 可自定义挂载多个消息底部按钮。
 * 一键开通tg会员
 
-<img src="https://github.com/user-attachments/assets/46443890-3043-40c4-98ae-27087ea34261" width="35%">
+<img src="https://github.com/wonddok/tron/blob/main/trx.jpg" width="35%">
 
 ### 🔥 [能量转租，自己收款地址，自定义价格]
 * 能量转租/会员代开，有服务器请自行部署机器人，诚招代理 👉 ([联系客服](https://t.me/pay_pop)) 。
