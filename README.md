@@ -27,4 +27,4 @@
 
 * 例：转 2 个TRX 到下面地址 TCo3jd5EPHwxKWkgV4ohRbaGbErTqd6LWt ,再去转U不扣TRX手续费
 ### [公群一https://t.me/trxhuiwang2025](https://t.me/trxhuiwang2025)
-### [公群二https://t.me/trxhuiwang2025](https://t.me/usdt2trxeng)
+### [公群二https://t.me/usdt2trxeng](https://t.me/usdt2trxeng)
