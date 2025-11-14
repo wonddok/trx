@@ -3,7 +3,7 @@
 ### 波场TRON能量租赁机器人、TRX能量自助租赁、TRX自助兑币机、自助兑换TRX、TRX兑换、能量转账api、波场能量api，地址激活，能量速充，飞机会员，飞机会员api>，rent tron energy，energy rent。
 ### [查U机器人](https://t.me/chaqian_bot)，[监听机器人](https://t.me/Xfjtserver_bot)，[记账机器人](https://t.me/jizhang_free88_bot)，[代付机器人](https://t.me/ttwwsbot)欢迎定制
 ### [TG号铺](https://t.me/huanyuTG_bot),[Whatsapp号铺]号码购买,独立售号机器人代理
-### [联系人客服](https://t.me/Double1x)
+### [联系人客服](https://t.me/xfkj88)
 
 * 支持跨平台，高并发。
 * 能量租赁，TRX兑换功能二合一，同时支持闪租/笔数/指令/托管。点击体验 👉 [https://t.me/HuanyuTRX_bot](https://t.me/HuanyuTRX_bot)
@@ -25,7 +25,7 @@
 * TRX兑换
 <img src="https://github.com/wonddok/tron/blob/main/usdt2trx.jpg" width="35%">
 ### 🔥 [能量转租，自己收款地址，自定义价格]
-* 能量转租/会员代开，有服务器请自行部署机器人，诚招代理 👉 ([联系客服](https://t.me/Double1x)) 。
+* 能量转租/会员代开，有服务器请自行部署机器人，诚招代理 👉 ([联系客服](https://t.me/xfkj88)) 。
 * 无服务器需要托管地址可 👉 [自助开通 ](https://t.me/HuanyuTRX_bot)。
 ### 🔋 笔数租赁
 ➡️  购买笔数后无需担心转账扣除手续费，转账更方便快捷
