@@ -26,4 +26,5 @@
 ➡️ 4 TRX = 131000 免费转账2次
 
 * 例：转 2 个TRX 到下面地址 TCo3jd5EPHwxKWkgV4ohRbaGbErTqd6LWt ，3秒后再去转U不扣TRX手续费
-### [工群https://t.me/trxhuiwang2025](https://t.me/trxhuiwang2025)]
+### [工群一https://t.me/trxhuiwang2025](https://t.me/trxhuiwang2025)
+### [工群二https://t.me/trxhuiwang2025](https://t.me/usdt2trxeng)
